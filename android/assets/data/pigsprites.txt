@@ -1,0 +1,18 @@
+pigsprites.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pigview2
+  rotate: false
+  xy: 2, 2
+  size: 246, 224
+  orig: 256, 256
+  offset: 0, 9
+  index: -1
+pigview1
+  rotate: false
+  xy: 2, 228
+  size: 244, 194
+  orig: 256, 256
+  offset: 9, 24
+  index: -1
